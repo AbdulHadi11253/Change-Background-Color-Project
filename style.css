@@ -1,0 +1,10 @@
+body{
+    background-color: #EC82EE;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
